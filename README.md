@@ -1,20 +1,15 @@
+This program is a demonstration of the Hello World output that is given in the terminal using the Python programming language.
 
-{Provide a description of your software}
+My purpose for creating this program is to demonstrate the Python programming language, which is one of the leading object oriented programming languages in the world at the moment.
 
-{Describe your purpose for creating this software.}
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
-
+[Software Demo Video] https://youtu.be/R8H1quTuSZk
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I installed the Python interpreter to the Visual Studio code editor.
 
-{Describe the programming language that you used}
+I used the Python programming language to write this program.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+- [Hello World program demonstration by Ken Walters] https://www.youtube.com/watch?feature=shared&v=FB4ctVmryis
